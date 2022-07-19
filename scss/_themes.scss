@@ -107,5 +107,12 @@ footer{
     width: 48px;
     height: 48px;
   }
+  a {
+    color:#fff;
+    text-decoration: none;
+    &:hover{
+      color:$bd-blue;
+    } 
+  }
 }
 
